@@ -1,0 +1,294 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.0 185596  6136 ?        Ss   Jan11   0:03 /sbin/init splash
+root         2  0.0  0.0      0     0 ?        S    Jan11   0:00 [kthreadd]
+root         4  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/0:0H]
+root         6  0.0  0.0      0     0 ?        S    Jan11   0:02 [ksoftirqd/0]
+root         7  0.0  0.0      0     0 ?        S    Jan11   3:29 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    Jan11   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    Jan11   0:00 [migration/0]
+root        10  0.0  0.0      0     0 ?        S<   Jan11   0:00 [lru-add-drain]
+root        11  0.0  0.0      0     0 ?        S    Jan11   0:00 [watchdog/0]
+root        12  0.0  0.0      0     0 ?        S    Jan11   0:00 [cpuhp/0]
+root        13  0.0  0.0      0     0 ?        S    Jan11   0:00 [cpuhp/1]
+root        14  0.0  0.0      0     0 ?        S    Jan11   0:00 [watchdog/1]
+root        15  0.0  0.0      0     0 ?        S    Jan11   0:00 [migration/1]
+root        16  0.0  0.0      0     0 ?        S    Jan11   0:00 [ksoftirqd/1]
+root        18  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/1:0H]
+root        19  0.0  0.0      0     0 ?        S    Jan11   0:00 [cpuhp/2]
+root        20  0.0  0.0      0     0 ?        S    Jan11   0:00 [watchdog/2]
+root        21  0.0  0.0      0     0 ?        S    Jan11   0:00 [migration/2]
+root        22  0.0  0.0      0     0 ?        S    Jan11   0:00 [ksoftirqd/2]
+root        24  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/2:0H]
+root        25  0.0  0.0      0     0 ?        S    Jan11   0:00 [cpuhp/3]
+root        26  0.0  0.0      0     0 ?        S    Jan11   0:00 [watchdog/3]
+root        27  0.0  0.0      0     0 ?        S    Jan11   0:00 [migration/3]
+root        28  0.0  0.0      0     0 ?        S    Jan11   0:00 [ksoftirqd/3]
+root        30  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/3:0H]
+root        31  0.0  0.0      0     0 ?        S    Jan11   0:00 [cpuhp/4]
+root        32  0.0  0.0      0     0 ?        S    Jan11   0:00 [watchdog/4]
+root        33  0.0  0.0      0     0 ?        S    Jan11   0:00 [migration/4]
+root        34  0.0  0.0      0     0 ?        S    Jan11   0:00 [ksoftirqd/4]
+root        36  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/4:0H]
+root        37  0.0  0.0      0     0 ?        S    Jan11   0:00 [cpuhp/5]
+root        38  0.0  0.0      0     0 ?        S    Jan11   0:00 [watchdog/5]
+root        39  0.0  0.0      0     0 ?        S    Jan11   0:00 [migration/5]
+root        40  0.0  0.0      0     0 ?        S    Jan11   0:00 [ksoftirqd/5]
+root        42  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/5:0H]
+root        43  0.0  0.0      0     0 ?        S    Jan11   0:00 [cpuhp/6]
+root        44  0.0  0.0      0     0 ?        S    Jan11   0:00 [watchdog/6]
+root        45  0.0  0.0      0     0 ?        S    Jan11   0:00 [migration/6]
+root        46  0.0  0.0      0     0 ?        S    Jan11   0:00 [ksoftirqd/6]
+root        48  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/6:0H]
+root        49  0.0  0.0      0     0 ?        S    Jan11   0:00 [cpuhp/7]
+root        50  0.0  0.0      0     0 ?        S    Jan11   0:00 [watchdog/7]
+root        51  0.0  0.0      0     0 ?        S    Jan11   0:00 [migration/7]
+root        52  0.0  0.0      0     0 ?        S    Jan11   0:00 [ksoftirqd/7]
+root        54  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/7:0H]
+root        55  0.0  0.0      0     0 ?        S    Jan11   0:00 [kdevtmpfs]
+root        56  0.0  0.0      0     0 ?        S<   Jan11   0:00 [netns]
+root        57  0.0  0.0      0     0 ?        S    Jan11   0:00 [khungtaskd]
+root        58  0.0  0.0      0     0 ?        S    Jan11   0:00 [oom_reaper]
+root        59  0.0  0.0      0     0 ?        S<   Jan11   0:00 [writeback]
+root        60  0.0  0.0      0     0 ?        S    Jan11   0:00 [kcompactd0]
+root        61  0.0  0.0      0     0 ?        SN   Jan11   0:00 [ksmd]
+root        62  0.0  0.0      0     0 ?        SN   Jan11   0:03 [khugepaged]
+root        63  0.0  0.0      0     0 ?        S<   Jan11   0:00 [crypto]
+root        64  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kintegrityd]
+root        65  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root        66  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kblockd]
+root        75  0.0  0.0      0     0 ?        S<   Jan11   0:00 [ata_sff]
+root        76  0.0  0.0      0     0 ?        S<   Jan11   0:00 [md]
+root        77  0.0  0.0      0     0 ?        S<   Jan11   0:00 [devfreq_wq]
+root        78  0.0  0.0      0     0 ?        S<   Jan11   0:00 [watchdogd]
+root        81  0.0  0.0      0     0 ?        S    Jan11   0:00 [kauditd]
+root        82  0.0  0.0      0     0 ?        S    Jan11   0:00 [kswapd0]
+root        83  0.0  0.0      0     0 ?        S<   Jan11   0:00 [vmstat]
+root        84  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root        85  0.0  0.0      0     0 ?        S    Jan11   0:00 [ecryptfs-kthrea]
+root       125  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kthrotld]
+root       126  0.0  0.0      0     0 ?        S<   Jan11   0:00 [acpi_thermal_pm]
+root       127  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       128  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       129  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       130  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       131  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       132  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       133  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       134  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       139  0.0  0.0      0     0 ?        S<   Jan11   0:00 [ipv6_addrconf]
+root       160  0.0  0.0      0     0 ?        S<   Jan11   0:00 [charger_manager]
+root       214  0.0  0.0      0     0 ?        S    Jan11   0:00 [scsi_eh_0]
+root       215  0.0  0.0      0     0 ?        S<   Jan11   0:00 [scsi_tmf_0]
+root       216  0.0  0.0      0     0 ?        S    Jan11   0:00 [scsi_eh_1]
+root       217  0.0  0.0      0     0 ?        S<   Jan11   0:00 [nvme]
+root       218  0.0  0.0      0     0 ?        S<   Jan11   0:00 [scsi_tmf_1]
+root       219  0.0  0.0      0     0 ?        S    Jan11   0:00 [scsi_eh_2]
+root       220  0.0  0.0      0     0 ?        S<   Jan11   0:00 [scsi_tmf_2]
+root       223  0.0  0.0      0     0 ?        S    Jan11   0:00 [i915/signal:0]
+root       224  0.0  0.0      0     0 ?        S    Jan11   0:00 [i915/signal:1]
+root       225  0.0  0.0      0     0 ?        S    Jan11   0:00 [i915/signal:2]
+root       226  0.0  0.0      0     0 ?        S    Jan11   0:00 [i915/signal:4]
+root       227  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       228  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       256  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root       282  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/5:1H]
+root       284  0.0  0.0      0     0 ?        S    Jan11   0:09 [jbd2/nvme0n1p2-]
+root       285  0.0  0.0      0     0 ?        S<   Jan11   0:00 [ext4-rsv-conver]
+root       323  0.0  0.0  43976  9176 ?        Ss   Jan11   0:05 /lib/systemd/systemd-journald
+root       339  0.0  0.0 102968  1552 ?        Ss   Jan11   0:00 /sbin/lvmetad -f
+root       353  0.0  0.0  45280  4128 ?        Ss   Jan11   0:00 /lib/systemd/systemd-udevd
+root       365  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/1:1H]
+root       413  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kmemstick]
+root       425  0.0  0.0      0     0 ?        S<   Jan11   0:00 [cfg80211]
+root       429  0.0  0.0      0     0 ?        S    Jan11   1:25 [irq/134-iwlwifi]
+root       488  0.0  0.0      0     0 ?        S<   Jan11   0:03 [kworker/u17:0]
+root       491  0.0  0.0      0     0 ?        S<   Jan11   0:04 [kworker/u17:1]
+root       597  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/3:1H]
+root       700  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/0:1H]
+systemd+   727  0.0  0.0 102384  2552 ?        Ssl  Jan11   0:00 /lib/systemd/systemd-timesyncd
+root       738  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/4:1H]
+root       739  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/6:1H]
+root       741  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/2:1H]
+root       742  0.0  0.0      0     0 ?        S<   Jan11   0:00 [kworker/7:1H]
+root       840  0.0  0.0   4400  1296 ?        Ss   Jan11   0:03 /usr/sbin/acpid
+root       852  0.0  0.1 172324 17284 ?        Ssl  Jan11   1:26 /usr/bin/python3 /usr/lib/system76-driver/system76-daemon
+message+   873  0.0  0.0  44520  5432 ?        Ss   Jan11   1:28 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       899  0.0  0.0  22396  3008 ?        Ss   Jan11   0:06 /usr/bin/vmware-usbarbitrator
+root       912  0.0  0.0 275888  7956 ?        Ssl  Jan11   0:03 /usr/lib/accountsservice/accounts-daemon
+root       914  0.0  0.0 166436  8188 ?        Ssl  Jan11   0:16 /usr/sbin/thermald --no-daemon --dbus-enable
+syslog     920  0.0  0.0 256400  3320 ?        Ssl  Jan11   0:01 /usr/sbin/rsyslogd -n
+root       922  0.0  0.0  29008  2496 ?        Ss   Jan11   0:00 /usr/sbin/cron -f
+mongodb    932  0.3  0.3 553184 48992 ?        Ssl  Jan11  11:18 /usr/bin/mongod --config /etc/mongodb.conf
+root       936  0.0  0.0  28636  3148 ?        Ss   Jan11   0:00 /lib/systemd/systemd-logind
+avahi      938  0.0  0.0  44916  3540 ?        Ss   Jan11   0:11 avahi-daemon: running [ouroborealis.local]
+root       939  0.0  0.0 337392  8356 ?        Ssl  Jan11   0:00 /usr/sbin/ModemManager
+root       942  0.0  0.0  32116  4216 ?        Ss   Jan11   0:00 /usr/lib/bluetooth/bluetoothd
+root       943  0.0  0.1 602512 27548 ?        Ssl  Jan11   0:14 /usr/lib/snapd/snapd
+avahi      957  0.0  0.0  44788   328 ?        S    Jan11   0:00 avahi-daemon: chroot helper
+root       984  0.0  0.0  19568  2320 ?        Ss   Jan11   0:20 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root       992  0.0  0.0 281856  8204 ?        Ssl  Jan11   0:00 /usr/lib/policykit-1/polkitd --no-debug
+root      1012  0.0  0.0 350408  6052 ?        SLsl Jan11   0:00 /usr/sbin/lightdm
+mysql     1079  0.0  0.9 1312696 151060 ?      Ssl  Jan11   1:59 /usr/sbin/mysqld
+colord    1088  0.0  0.0 301280 10548 ?        Ssl  Jan11   0:00 /usr/lib/colord/colord
+root      1093  0.9  1.1 605404 187708 tty7    Ssl+ Jan11  33:36 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1139  0.0  0.0  44228  7568 ?        Ss   Jan11   0:16 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+joelerc+  1230  0.0  0.0  22868  5216 pts/11   Ss+  Jan12   0:00 bash
+root      1231  0.0  0.0 248908  6760 ?        Sl   Jan11   0:00 lightdm --session-child 12 19
+rtkit     1295  0.0  0.0 183544  2992 ?        SNsl Jan11   0:01 /usr/lib/rtkit/rtkit-daemon
+root      1324  0.0  0.0      0     0 ?        S<   Jan11   0:00 [krfcommd]
+root      1332  0.4  0.0 347824  9980 ?        Ssl  Jan11  18:19 /usr/lib/upower/upowerd
+whoopsie  1413  0.0  0.0 447724 12172 ?        Ssl  Jan11   0:00 /usr/bin/whoopsie -f
+root      1434  0.0  0.0  15940  1736 tty1     Ss+  Jan11   0:00 /sbin/agetty --noclear tty1 linux
+root      1462  0.0  0.0      0     0 ?        S<   Jan11   0:00 [iprt-VBoxWQueue]
+root      1525  0.0  0.0      0     0 ?        S    Jan11   0:00 [iprt-VBoxTscThr]
+root      1579  0.0  0.0 179888  2576 ?        Ssl  Jan11   0:00 /usr/lib/vmware/bin/vmware-vmblock-fuse -o subtype=vmware-vmblock,default_permissions,allow_other /var/run/vmblock-fuse
+root      1609  0.0  0.0   7000   192 ?        Ss   Jan11   0:00 /usr/bin/vmnet-bridge -s 6 -d /var/run/vmnet-bridge-0.pid -n 0
+root      1617  0.0  0.0   6972   192 ?        Ss   Jan11   0:00 /usr/bin/vmnet-netifup -s 6 -d /var/run/vmnet-netifup-vmnet1.pid /dev/vmnet1 vmnet1
+root      1631  0.0  0.0  17152  5628 ?        Ss   Jan11   0:00 /usr/bin/vmnet-dhcpd -s 6 -cf /etc/vmware/vmnet1/dhcpd/dhcpd.conf -lf /etc/vmware/vmnet1/dhcpd/dhcpd.leases -pf /var/run/vmnet-dhcpd-vmnet1.pid vmnet1
+root      1634  0.0  0.0  11988  2652 ?        S    Jan11   0:00 /usr/bin/vmnet-natd -s 6 -m /etc/vmware/vmnet8/nat.mac -c /etc/vmware/vmnet8/nat/nat.conf
+root      1636  0.0  0.0   6972   188 ?        Ss   Jan11   0:00 /usr/bin/vmnet-netifup -s 6 -d /var/run/vmnet-netifup-vmnet8.pid /dev/vmnet8 vmnet8
+root      1649  0.0  0.0  17152  5632 ?        Ss   Jan11   0:00 /usr/bin/vmnet-dhcpd -s 6 -cf /etc/vmware/vmnet8/dhcpd/dhcpd.conf -lf /etc/vmware/vmnet8/dhcpd/dhcpd.leases -pf /var/run/vmnet-dhcpd-vmnet8.pid vmnet8
+root      1664  0.0  0.0  21028   480 ?        Ss   Jan11   0:06 /usr/sbin/vmware-authdlauncher
+joelerc+  1696  0.0  0.0  45276  4612 ?        Ss   Jan11   0:00 /lib/systemd/systemd --user
+joelerc+  1697  0.0  0.0 229468  2500 ?        S    Jan11   0:00 (sd-pam)
+joelerc+  1703  0.0  0.0 207968  9784 ?        SLl  Jan11   0:04 /usr/bin/gnome-keyring-daemon --daemonize --login
+joelerc+  1705  0.0  0.0  46476  4292 ?        Ss   Jan11   0:00 /sbin/upstart --user
+joelerc+  1784  0.0  0.0  32860  2168 ?        S    Jan11   0:00 upstart-udev-bridge --daemon --user
+joelerc+  1792  0.0  0.0  43956  4324 ?        Ss   Jan11   0:26 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-gEVTrlBEsR
+joelerc+  1804  0.0  0.0  86348  9428 ?        Ss   Jan11   0:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+joelerc+  1833  0.0  0.0  32876  1780 ?        S    Jan11   0:05 upstart-dbus-bridge --daemon --session --user --bus-name session
+joelerc+  1835  0.0  0.0  32796   304 ?        S    Jan11   0:17 upstart-dbus-bridge --daemon --system --user --bus-name system
+joelerc+  1837  0.0  0.0  41288  2140 ?        S    Jan11   0:00 upstart-file-bridge --daemon --user
+joelerc+  1848  0.0  0.1 525044 27968 ?        Ssl  Jan11   0:14 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+joelerc+  1854  0.0  0.1 356484 19456 ?        Ssl  Jan11   1:19 /usr/bin/ibus-daemon --daemonize --xim --address unix:tmpdir=/tmp/ibus
+joelerc+  1865  0.0  0.0 274420  5868 ?        Sl   Jan11   0:00 /usr/lib/gvfs/gvfsd
+joelerc+  1871  0.0  0.0 406864  4728 ?        Sl   Jan11   0:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+joelerc+  1875  0.0  0.0 264264  5720 ?        Sl   Jan11   0:00 /usr/lib/ibus/ibus-dconf
+joelerc+  1877  0.0  0.2 480844 33488 ?        Sl   Jan11   0:19 /usr/lib/ibus/ibus-ui-gtk3
+joelerc+  1880  0.0  0.1 427628 23364 ?        Sl   Jan11   0:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+joelerc+  1897  0.0  0.0 188392  4932 ?        Sl   Jan11   0:20 /usr/lib/ibus/ibus-engine-simple
+joelerc+  1902  0.0  0.0 166540   560 ?        Ss   Jan11   0:05 gpg-agent --homedir /home/joelercoaster/.gnupg --use-standard-socket --daemon
+joelerc+  1912  0.0  0.5 692448 89152 ?        Ssl  Jan11   0:54 /usr/lib/x86_64-linux-gnu/hud/hud-service
+joelerc+  1914  0.0  0.2 1274668 33968 ?       Ssl  Jan11   0:06 /usr/lib/unity-settings-daemon/unity-settings-daemon
+joelerc+  1920  0.0  0.0 338008  5404 ?        Ssl  Jan11   0:00 /usr/lib/at-spi2-core/at-spi-bus-launcher --launch-immediately
+joelerc+  1921  0.0  0.0 845408 15028 ?        Ssl  Jan11   0:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+joelerc+  1929  0.0  0.0  43024  4064 ?        S    Jan11   0:01 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+joelerc+  1930  0.0  0.5 684712 86968 ?        Ssl  Jan11   1:54 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+joelerc+  1938  0.0  0.0 206868  6504 ?        Sl   Jan11   0:09 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+joelerc+  1960  0.0  0.0 178792  5044 ?        Sl   Jan11   0:00 /usr/lib/dconf/dconf-service
+joelerc+  1967  0.0  0.0 501880  6512 ?        Ssl  Jan11   0:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+joelerc+  1968  0.0  0.0 407252  7212 ?        Ssl  Jan11   0:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+joelerc+  1969  0.0  0.1 781520 18608 ?        Ssl  Jan11   0:02 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+joelerc+  1973  0.0  0.1 1233736 18832 ?       Ssl  Jan11   0:03 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+joelerc+  1976  0.0  0.1 649104 26224 ?        Ssl  Jan11   0:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+joelerc+  1978  0.0  0.0 663268 10108 ?        Ssl  Jan11   0:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+joelerc+  1980  0.0  0.1 621344 23948 ?        Ssl  Jan11   0:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+joelerc+  1981  0.0  0.0 952888  8196 ?        Ssl  Jan11   0:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+joelerc+  1985  0.0  0.0 403152 13052 ?        Ssl  Jan11   0:10 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+joelerc+  2031  0.0  0.1 1242892 23000 ?       Sl   Jan11   0:00 /usr/lib/evolution/evolution-source-registry
+joelerc+  2033  1.7  0.8 1290352 131300 ?      Ssl  Jan11  64:35 compiz
+joelerc+  2039  0.2  0.0 445516 12284 ?        Sl   Jan11   9:33 /usr/bin/pulseaudio --start --log-target=syslog
+joelerc+  2066  0.0  0.3 862972 59268 ?        Sl   Jan11   0:00 /usr/lib/evolution/evolution-calendar-factory
+joelerc+  2067  0.0  0.0  22504  2576 ?        S    Jan11   0:03 syndaemon -i 1.0 -t -K -R
+joelerc+  2095  0.0  0.3 881532 49020 ?        Sl   Jan11   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2066x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2066/2
+joelerc+  2105  0.0  0.1 690568 17620 ?        Sl   Jan11   0:00 /usr/lib/evolution/evolution-addressbook-factory
+joelerc+  2107  0.0  0.2 865780 48928 ?        Sl   Jan11   0:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2066x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2066/3
+joelerc+  2115  0.0  0.1 905332 20032 ?        Sl   Jan11   0:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2105x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2105/2
+joelerc+  2149  0.0  0.0 285444  8820 ?        Sl   Jan11   0:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      2152  0.0  0.0 366656  9472 ?        Ssl  Jan11   0:00 /usr/lib/udisks2/udisksd --no-debug
+joelerc+  2173  0.0  0.5 1240340 94256 ?       Sl   Jan11   1:14 /usr/bin/nautilus --gapplication-service
+joelerc+  2175  0.0  0.0 361240  8844 ?        Sl   Jan11   0:01 /usr/lib/gvfs/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/0
+joelerc+  2202  0.0  0.1 489792 30072 ?        Sl   Jan11   0:03 /usr/lib/x86_64-linux-gnu/notify-osd
+joelerc+  2216  0.0  0.4 741808 80220 ?        SLl  Jan11   0:04 /usr/bin/gnome-software --gapplication-service
+joelerc+  2217  0.0  0.1 576840 19048 ?        Sl   Jan11   0:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+joelerc+  2218  0.0  0.1 429216 19432 ?        Sl   Jan11   0:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+joelerc+  2220  0.0  0.2 1206532 35504 ?       Sl   Jan11   3:26 nm-applet
+joelerc+  2241  0.0  0.0 186272  5364 ?        Sl   Jan11   0:00 /usr/lib/gvfs/gvfsd-metadata
+uuidd     2328  0.0  0.0  28156  1016 ?        Ss   Jan11   0:00 /usr/sbin/uuidd --socket-activation
+joelerc+  2520  1.8  2.5 1624172 411712 ?      SLl  Jan11  68:04 /opt/google/chrome/chrome
+joelerc+  2525  0.0  0.3 419904 49524 ?        S    Jan11   0:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown
+joelerc+  2526  0.0  0.0 105284  7152 ?        S    Jan11   0:00 /opt/google/chrome/nacl_helper
+joelerc+  2529  0.0  0.0 419904 11956 ?        S    Jan11   0:02 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown
+joelerc+  2566  1.6  1.5 724104 249604 ?       Sl   Jan11  62:59 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=10363665153640423672,3067677139075029753,131072 --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --disable-accelerated-video-decode --gpu-vendor-id=0x8086 --gpu-device-id=0x591b --gpu-driver-vendor=Mesa --gpu-driver-version=17.2.4 --gpu-driver-date --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --service-request-channel-token=1C9F2FEFEE2CF3F3348DD16BD32987C0
+joelerc+  2569  0.0  0.0 447020 13800 ?        S    Jan11   0:00 /opt/google/chrome/chrome --type=gpu-broker
+root      2613  0.0  0.0 108964  6452 ?        Ss   Jan11   0:05 sendmail: MTA: accepting connections
+joelerc+  2658  0.0  0.7 1240468 118632 ?      Sl   Jan11   3:19 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=7818B4EAB4174B9B0F3A5CD22F4D967A --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=7818B4EAB4174B9B0F3A5CD22F4D967A --renderer-client-id=4 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+joelerc+  2662  0.0  0.3 1107388 63956 ?       Sl   Jan11   0:03 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=225F79B36E0374FC14E96AFB60EA2702 --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=225F79B36E0374FC14E96AFB60EA2702 --renderer-client-id=5 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+joelerc+  2762  0.0  0.1 551228 18300 ?        Sl   Jan11   0:02 zeitgeist-datahub
+joelerc+  2769  0.0  0.0   4508   712 ?        S    Jan11   0:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+joelerc+  2773  0.0  0.0 410224  7308 ?        Sl   Jan11   0:00 /usr/bin/zeitgeist-daemon
+joelerc+  2780  0.0  0.0 317176 14808 ?        Sl   Jan11   0:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+joelerc+  3061  0.0  0.9 1264412 151376 ?      Sl   Jan11   0:13 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=08CDFC3CE71A7A9D8A41881565C3BE14 --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=08CDFC3CE71A7A9D8A41881565C3BE14 --renderer-client-id=14 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+joelerc+  3102  0.0  1.2 1294632 198084 ?      Sl   Jan11   2:16 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=69FCE7FB4AB7750A218F0AA931B806DF --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=69FCE7FB4AB7750A218F0AA931B806DF --renderer-client-id=13 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+joelerc+  3125  0.0  1.0 1295556 163452 ?      Sl   Jan11   0:13 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=1CBC74CEDF93917B08418862344D6FBE --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=1CBC74CEDF93917B08418862344D6FBE --renderer-client-id=11 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+joelerc+  3155  0.0  0.9 1250316 149844 ?      Sl   Jan11   0:09 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=64762157FF91147A401083817B4535FF --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=64762157FF91147A401083817B4535FF --renderer-client-id=12 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+joelerc+  3272  0.0  0.1 524196 24960 ?        Sl   Jan11   0:03 update-notifier
+joelerc+  3397  0.0  0.0 435320  6532 ?        Sl   Jan11   0:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+root      6209  0.0  0.0  43600  2556 ?        S    Jan11   0:00 dbus-launch --autolaunch=bc1aaff11033294cc24c86070d821453 --binary-syntax --close-stderr
+root      6210  0.0  0.0  42768  2548 ?        Ss   Jan11   0:00 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --session
+root      8316  0.0  0.1 102864 17240 ?        Ss   07:35   0:00 /usr/sbin/cupsd -l
+root      8317  0.0  0.0 274964  9304 ?        Ssl  07:35   0:00 /usr/sbin/cups-browsed
+joelerc+ 11734  0.0  0.0  22860  5592 pts/19   Ss+  Jan12   0:00 bash
+root     14134  0.0  0.0      0     0 ?        S<   Jan11   0:00 [bioset]
+root     14137  0.0  0.0      0     0 ?        S<   Jan11   0:00 [xfsalloc]
+root     14138  0.0  0.0      0     0 ?        S<   Jan11   0:00 [xfs_mru_cache]
+root     14146  0.0  0.0      0     0 ?        S    Jan11   0:00 [jfsIO]
+root     14147  0.0  0.0      0     0 ?        S    Jan11   0:00 [jfsCommit]
+root     14148  0.0  0.0      0     0 ?        S    Jan11   0:00 [jfsCommit]
+root     14149  0.0  0.0      0     0 ?        S    Jan11   0:00 [jfsCommit]
+root     14150  0.0  0.0      0     0 ?        S    Jan11   0:00 [jfsCommit]
+root     14151  0.0  0.0      0     0 ?        S    Jan11   0:00 [jfsCommit]
+root     14152  0.0  0.0      0     0 ?        S    Jan11   0:00 [jfsCommit]
+root     14153  0.0  0.0      0     0 ?        S    Jan11   0:00 [jfsCommit]
+root     14154  0.0  0.0      0     0 ?        S    Jan11   0:00 [jfsCommit]
+root     14155  0.0  0.0      0     0 ?        S    Jan11   0:00 [jfsSync]
+root     15071  0.0  0.0      0     0 ?        S    19:36   0:00 [kworker/1:1]
+root     15075  0.0  0.0      0     0 ?        S    19:36   0:00 [kworker/2:0]
+root     15298  0.0  0.0      0     0 ?        S    19:39   0:00 [kworker/u16:2]
+root     15899  0.0  0.0      0     0 ?        S    19:40   0:00 [kworker/7:1]
+root     16020  0.0  0.0      0     0 ?        S    19:41   0:00 [kworker/3:2]
+root     16056  0.0  0.0      0     0 ?        S    19:41   0:00 [kworker/0:0]
+root     16342  0.0  0.0      0     0 ?        S    19:45   0:00 [kworker/u16:0]
+root     16395  0.0  0.0      0     0 ?        S    19:45   0:00 [kworker/7:0]
+joelerc+ 16650 11.6  2.1 1487720 347996 ?      Sl   19:49   0:19 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=783B0E8F21BF77C1D9B6A51CFDB979FA --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=783B0E8F21BF77C1D9B6A51CFDB979FA --renderer-client-id=1855 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+root     16678  0.0  0.0      0     0 ?        S    19:49   0:00 [kworker/2:1]
+root     16752  0.0  0.0      0     0 ?        S    19:49   0:00 [kworker/0:2]
+root     16753  0.0  0.0      0     0 ?        S    19:49   0:00 [kworker/6:2]
+root     16783  0.0  0.0      0     0 ?        S    19:50   0:00 [kworker/7:2]
+joelerc+ 16866  0.0  0.0  37368  3328 pts/2    R+   19:51   0:00 ps -aux
+joelerc+ 16867  0.0  0.0   9660   792 pts/2    S+   19:51   0:00 less
+root     23708  0.0  0.0      0     0 ?        S    16:11   0:00 [irq/123-mei_me]
+root     23721  0.0  0.0      0     0 ?        S<   16:12   0:00 [hci0]
+root     23722  0.0  0.0      0     0 ?        S<   16:12   0:00 [hci0]
+root     23745  0.1  0.1 532612 18684 ?        Ssl  16:12   0:16 /usr/sbin/NetworkManager --no-daemon
+root     23775  0.0  0.0  16128  3720 ?        S    16:12   0:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-wlp3s0.pid -lf /var/lib/NetworkManager/dhclient-9311e35f-b943-4f01-a71c-5c49acae7cd3-wlp3s0.lease -cf /var/lib/NetworkManager/dhclient-wlp3s0.conf wlp3s0
+nobody   23785  0.0  0.0  52868  4076 ?        S    16:12   0:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root     25224  0.0  0.0      0     0 ?        S    16:56   0:00 [kworker/5:2]
+usbmux   26529  0.2  0.0 257556  7068 ?        Ssl  17:41   0:21 /usr/sbin/usbmuxd --user usbmux --systemd
+joelerc+ 26569  0.0  0.0  61168  4928 ?        S    Jan11   0:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+joelerc+ 26705  0.0  0.4 1140684 74408 ?       Sl   Jan12   0:25 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=A12542D73D8A36979C09C15F91B1B470 --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --extension-process --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=A12542D73D8A36979C09C15F91B1B470 --renderer-client-id=888 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+joelerc+ 26780  0.5  2.2 1604476 364156 ?      Sl   Jan12  11:24 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=D7F94E63555C77C82F75999EDD87FF06 --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=D7F94E63555C77C82F75999EDD87FF06 --renderer-client-id=891 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+joelerc+ 27606  0.8  3.2 2198080 534592 ?      Sl   Jan12  17:41 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=303BB4853F07681DB4FBF8B30AC68740 --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=303BB4853F07681DB4FBF8B30AC68740 --renderer-client-id=907 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+joelerc+ 28066  1.5  1.8 1559684 309168 ?      Sl   Jan12  31:34 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=EAD5049AEAA3A8CF8A7E4B16BA1A6E11 --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=EAD5049AEAA3A8CF8A7E4B16BA1A6E11 --renderer-client-id=917 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+joelerc+ 28095  0.2  2.8 2155396 471084 ?      Sl   Jan12   5:19 /opt/google/chrome/chrome --type=renderer --field-trial-handle=10363665153640423672,3067677139075029753,131072 --service-pipe-token=C1370F57B8AFB3DEEB43AE539FB21D10 --lang=en-US --enable-crash-reporter=08fea265-1b56-4a0f-9878-4b8a47c8220e,unknown --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=4 --enable-main-frame-before-activation --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553 --disable-accelerated-video-decode --service-request-channel-token=C1370F57B8AFB3DEEB43AE539FB21D10 --renderer-client-id=918 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+root     28680  0.0  0.0      0     0 ?        S    18:18   0:00 [kworker/6:0]
+root     28923  0.0  0.0      0     0 ?        S    18:23   0:00 [kworker/0:1]
+root     29499  0.0  0.0      0     0 ?        S    18:41   0:00 [kworker/5:0]
+root     29821  0.0  0.0      0     0 ?        S    18:52   0:00 [kworker/6:1]
+root     29822  0.0  0.0      0     0 ?        S    18:52   0:00 [kworker/1:0]
+joelerc+ 29831  0.0  0.2 665204 40936 ?        Sl   Jan12   0:35 /usr/lib/gnome-terminal/gnome-terminal-server
+joelerc+ 29838  0.0  0.0  22884  5308 pts/2    Ss   Jan12   0:00 bash
+root     30423  0.0  0.0      0     0 ?        S    19:10   0:00 [kworker/2:2]
+root     30426  0.0  0.0      0     0 ?        S    19:10   0:01 [kworker/u16:3]
+root     30710  0.0  0.0      0     0 ?        S    19:19   0:00 [kworker/3:1]
+joelerc+ 30776  0.6  1.0 1287492 173848 ?      Ssl  Jan12  12:45 /opt/sublime_text/sublime_text countries-api/
+joelerc+ 30792  0.1  0.1 278408 29180 ?        Sl   Jan12   2:24 /opt/sublime_text/plugin_host 30776
+root     30866  0.0  0.0      0     0 ?        S    19:22   0:01 [kworker/u16:1]
+root     32229  0.0  0.0      0     0 ?        S    19:31   0:00 [kworker/4:1]
+root     32231  0.0  0.0      0     0 ?        S    19:31   0:00 [kworker/4:3]
+postgres 32701  0.0  0.1 294588 22812 ?        S    Jan12   0:06 /usr/lib/postgresql/9.5/bin/postgres -D /var/lib/postgresql/9.5/main -c config_file=/etc/postgresql/9.5/main/postgresql.conf
+postgres 32703  0.0  0.0 294688  6996 ?        Ss   Jan12   0:00 postgres: checkpointer process   
+postgres 32704  0.0  0.0 294588  5480 ?        Ss   Jan12   0:00 postgres: writer process   
+postgres 32705  0.0  0.0 294588  8644 ?        Ss   Jan12   0:00 postgres: wal writer process   
+postgres 32706  0.0  0.0 294968  6560 ?        Ss   Jan12   0:04 postgres: autovacuum launcher process   
+postgres 32707  0.0  0.0 149848  4236 ?        Ss   Jan12   0:04 postgres: stats collector process   
